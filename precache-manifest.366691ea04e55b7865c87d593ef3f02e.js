@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/card-match/static/js/2.0b822fe4.chunk.js"
   },
   {
-    "revision": "cffd1301ae9aff77ebece00624141640",
+    "revision": "045f9542f6a75caaf434a2b8b58648bd",
     "url": "/card-match/index.html"
   }
 ];
